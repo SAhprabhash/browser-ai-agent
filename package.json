@@ -1,0 +1,21 @@
+{
+  "name": "browser-ai-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^10.0.0",
+    "dotenv": "^17.2.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.16.0",
+    "playwright": "^1.55.0",
+    "say": "^0.16.0"
+  }
+}
